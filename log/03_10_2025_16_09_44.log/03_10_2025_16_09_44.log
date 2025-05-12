@@ -1,0 +1,9 @@
+[ 2025-03-10 16:09:44,485 ] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.23.2:8080
+[ 2025-03-10 16:09:44,485 ] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-03-10 16:09:56,663 ] werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:09:56] "GET / HTTP/1.1" 200 -
+[ 2025-03-10 16:10:37,805 ] werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:10:37] "GET / HTTP/1.1" 200 -
+[ 2025-03-10 16:11:18,997 ] werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:11:18] "GET / HTTP/1.1" 200 -
+[ 2025-03-10 16:11:38,691 ] werkzeug - INFO - 127.0.0.1 - - [10/Mar/2025 16:11:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
